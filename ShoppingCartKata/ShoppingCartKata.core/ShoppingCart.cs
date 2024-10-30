@@ -30,5 +30,9 @@ namespace ShoppingCartKata.business
         {
             ProductsList.Remove(product);
         }
+        public double GetTotalPrice()
+        {
+            return ProductsList.Sum(p => p.FinalPrice);
+        }
     }
 }

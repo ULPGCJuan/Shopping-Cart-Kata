@@ -49,5 +49,19 @@ namespace ShoppingCartKata.test
             cart.RemoveItem(product);
             cart.GetProducts().Count.Should().Be(0);
         }
+
+        [Test]
+        public void Return_total_price_of_products_in_shopping_cart_given_a_product()
+        {
+            var product = new Product("Lechuga", 1.55, 0.15, 0.21);
+
+            cart.AddItem(product);
+
+            cart.GetProducts().Count.Should().Be(1);
+
+            var result = cart.GetTotalPrice();
+            result.Should().Be(product.FinalPrice);
+        }
+
     }
 }
