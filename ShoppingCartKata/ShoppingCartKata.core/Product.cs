@@ -28,7 +28,7 @@
         private double CalculateFinalPrice()
         {
             var finalPrice = UnitPrice * (1 + Tax);
-            return 
+            return Math.Ceiling(finalPrice * 100) / 100; 
         }
     }
 }
