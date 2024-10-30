@@ -36,5 +36,18 @@ namespace ShoppingCartKata.test
         {
             cart.GetProducts().Count.Should().Be(0);
         }
+
+        [Test]
+        public void Remove_product_from_shopping_cart_after_adding_a_product()
+        {
+            var product = new Product("Lechuga", 1.55, 0.15, 0.21);
+
+            cart.AddItem(product);
+
+            cart.GetProducts().Count.Should().Be(1);
+
+            cart.RemoveItem(product);
+            cart.GetProducts().Count.Should().Be(0);
+        }
     }
 }

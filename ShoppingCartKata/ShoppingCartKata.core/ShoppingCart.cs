@@ -25,5 +25,10 @@ namespace ShoppingCartKata.business
         {
             return ProductsList;
         }
+
+        public void RemoveItem(Product product)
+        {
+            ProductsList.Remove(product);
+        }
     }
 }
