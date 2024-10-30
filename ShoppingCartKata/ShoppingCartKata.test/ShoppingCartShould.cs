@@ -30,5 +30,11 @@ namespace ShoppingCartKata.test
             cart.GetProducts().Count.Should().Be(1);
 
         }
+
+        [Test]
+        public void Return_empty_shopping_cart()
+        {
+            cart.GetProducts().Count.Should().Be(0);
+        }
     }
 }
