@@ -1,0 +1,12 @@
+C:\Users\jhernandez\source\repos\ULPGCJuan\Shopping-Cart-Kata\ShoppingCartKata\ShoppingCartKata.core\bin\Debug\net8.0\ShoppingCartKata.business.deps.json
+C:\Users\jhernandez\source\repos\ULPGCJuan\Shopping-Cart-Kata\ShoppingCartKata\ShoppingCartKata.core\bin\Debug\net8.0\ShoppingCartKata.business.dll
+C:\Users\jhernandez\source\repos\ULPGCJuan\Shopping-Cart-Kata\ShoppingCartKata\ShoppingCartKata.core\bin\Debug\net8.0\ShoppingCartKata.business.pdb
+C:\Users\jhernandez\source\repos\ULPGCJuan\Shopping-Cart-Kata\ShoppingCartKata\ShoppingCartKata.core\obj\Debug\net8.0\ShoppingCartKata.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhernandez\source\repos\ULPGCJuan\Shopping-Cart-Kata\ShoppingCartKata\ShoppingCartKata.core\obj\Debug\net8.0\ShoppingCartKata.business.AssemblyInfoInputs.cache
+C:\Users\jhernandez\source\repos\ULPGCJuan\Shopping-Cart-Kata\ShoppingCartKata\ShoppingCartKata.core\obj\Debug\net8.0\ShoppingCartKata.business.AssemblyInfo.cs
+C:\Users\jhernandez\source\repos\ULPGCJuan\Shopping-Cart-Kata\ShoppingCartKata\ShoppingCartKata.core\obj\Debug\net8.0\ShoppingCartKata.business.csproj.CoreCompileInputs.cache
+C:\Users\jhernandez\source\repos\ULPGCJuan\Shopping-Cart-Kata\ShoppingCartKata\ShoppingCartKata.core\obj\Debug\net8.0\ShoppingCartKata.business.sourcelink.json
+C:\Users\jhernandez\source\repos\ULPGCJuan\Shopping-Cart-Kata\ShoppingCartKata\ShoppingCartKata.core\obj\Debug\net8.0\ShoppingCartKata.business.dll
+C:\Users\jhernandez\source\repos\ULPGCJuan\Shopping-Cart-Kata\ShoppingCartKata\ShoppingCartKata.core\obj\Debug\net8.0\refint\ShoppingCartKata.business.dll
+C:\Users\jhernandez\source\repos\ULPGCJuan\Shopping-Cart-Kata\ShoppingCartKata\ShoppingCartKata.core\obj\Debug\net8.0\ShoppingCartKata.business.pdb
+C:\Users\jhernandez\source\repos\ULPGCJuan\Shopping-Cart-Kata\ShoppingCartKata\ShoppingCartKata.core\obj\Debug\net8.0\ref\ShoppingCartKata.business.dll

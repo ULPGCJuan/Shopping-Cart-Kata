@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhernandez\\source\\repos\\ULPGCJuan\\Shopping-Cart-Kata\\ShoppingCartKata\\ShoppingCartKata.core\\ShoppingCartKata.core.csproj",
-      "projectName": "ShoppingCartKata.core",
-      "projectPath": "C:\\Users\\jhernandez\\source\\repos\\ULPGCJuan\\Shopping-Cart-Kata\\ShoppingCartKata\\ShoppingCartKata.core\\ShoppingCartKata.core.csproj",
+      "projectUniqueName": "C:\\Users\\jhernandez\\source\\repos\\ULPGCJuan\\Shopping-Cart-Kata\\ShoppingCartKata\\ShoppingCartKata.core\\ShoppingCartKata.business.csproj",
+      "projectName": "ShoppingCartKata.business",
+      "projectPath": "C:\\Users\\jhernandez\\source\\repos\\ULPGCJuan\\Shopping-Cart-Kata\\ShoppingCartKata\\ShoppingCartKata.core\\ShoppingCartKata.business.csproj",
       "packagesPath": "C:\\Users\\jhernandez\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jhernandez\\source\\repos\\ULPGCJuan\\Shopping-Cart-Kata\\ShoppingCartKata\\ShoppingCartKata.core\\obj\\",
       "projectStyle": "PackageReference",

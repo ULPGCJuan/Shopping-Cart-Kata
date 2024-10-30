@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "NwrbBjgmqVU=",
+  "dgSpecHash": "xDN7en2T7AM=",
   "success": true,
   "projectFilePath": "C:\\Users\\jhernandez\\source\\repos\\ULPGCJuan\\Shopping-Cart-Kata\\ShoppingCartKata\\ShoppingCartKata.test\\ShoppingCartKata.test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jhernandez\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\jhernandez\\.nuget\\packages\\fluentassertions\\6.12.1\\fluentassertions.6.12.1.nupkg.sha512",
     "C:\\Users\\jhernandez\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
     "C:\\Users\\jhernandez\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
     "C:\\Users\\jhernandez\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
@@ -16,7 +17,9 @@
     "C:\\Users\\jhernandez\\.nuget\\packages\\nunit\\3.14.0\\nunit.3.14.0.nupkg.sha512",
     "C:\\Users\\jhernandez\\.nuget\\packages\\nunit.analyzers\\3.9.0\\nunit.analyzers.3.9.0.nupkg.sha512",
     "C:\\Users\\jhernandez\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
-    "C:\\Users\\jhernandez\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+    "C:\\Users\\jhernandez\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\jhernandez\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\jhernandez\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
   ],
   "logs": []
 }

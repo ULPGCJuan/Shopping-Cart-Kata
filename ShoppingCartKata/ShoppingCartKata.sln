@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCartKata.core", "ShoppingCartKata.core\ShoppingCartKata.core.csproj", "{50B7D8F7-BCDE-4E0F-A14B-1A28B5C82B89}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCartKata.business", "ShoppingCartKata.core\ShoppingCartKata.business.csproj", "{50B7D8F7-BCDE-4E0F-A14B-1A28B5C82B89}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCartKata.test", "ShoppingCartKata.test\ShoppingCartKata.test.csproj", "{1960E21C-1132-4E46-B4DA-309BDC8E1D35}"
 EndProject
