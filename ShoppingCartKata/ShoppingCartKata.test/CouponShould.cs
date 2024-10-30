@@ -26,6 +26,13 @@ namespace ShoppingCartKata.test
             coupon.DiscountPercentage.Should().Be(0.10);
         }
 
+        [Test]
+        public void Apply_no_discount_for_any_other_code()
+        {
+            var coupon = new Coupon("PROMO_15");
+
+            coupon.DiscountPercentage.Should().Be(0);
+        }
     }
 
     
