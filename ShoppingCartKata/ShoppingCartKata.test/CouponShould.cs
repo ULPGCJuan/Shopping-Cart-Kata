@@ -10,28 +10,14 @@ namespace ShoppingCartKata.test
 {
     public class CouponShould
     {
-        [Test]
-        public void Apply_five_percent_discount_for_PROMO_5_code()
+        [TestCase("PROMO_5", 0.05)]
+        [TestCase("PROMO_10", 0.10)]
+        [TestCase("PROMO_15", 0)]
+        public void Apply_correct_discount_based_on_code(string code, double expectedDiscount)
         {
-            var coupon = new Coupon("PROMO_5");
+            var coupon = new Coupon(code);
 
-            coupon.DiscountPercentage.Should().Be(0.05);
-        }
-
-        [Test]
-        public void Apply_ten_percent_discount_for_PROMO_10_code()
-        {
-            var coupon = new Coupon("PROMO_10");
-
-            coupon.DiscountPercentage.Should().Be(0.10);
-        }
-
-        [Test]
-        public void Apply_no_discount_for_any_other_code()
-        {
-            var coupon = new Coupon("PROMO_15");
-
-            coupon.DiscountPercentage.Should().Be(0);
+            coupon.DiscountPercentage.Should().Be(expectedDiscount);
         }
     }
 
