@@ -15,10 +15,20 @@
             Cost = cost;
             IncomePercent = incomePercent;
             Tax = tax;
-            UnitPrice = Math.Ceiling(UnitPrice * (1 + Tax) * 100) / 100;
-            FinalPrice = Math.Ceiling(Cost * (1 + IncomePercent) * 100) / 100;
+            UnitPrice = CalculateUnitPrice();
+            FinalPrice = CalculateFinalPrice();
         }
 
-        
+        private double CalculateUnitPrice()
+        {
+            var unitPrice = Cost * (1 + IncomePercent);
+            return Math.Ceiling(unitPrice * 100) / 100; 
+        }
+
+        private double CalculateFinalPrice()
+        {
+            var finalPrice = UnitPrice * (1 + Tax);
+            return 
+        }
     }
 }
