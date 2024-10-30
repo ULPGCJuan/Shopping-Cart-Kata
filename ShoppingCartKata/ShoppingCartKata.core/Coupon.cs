@@ -14,7 +14,10 @@ namespace ShoppingCartKata.business
         public Coupon(string code)
         {
             Code = code;
-            DiscountPercentage = 0.05;
+            if (code == "PROMO_10")
+                DiscountPercentage = 0.10;
+            else
+                DiscountPercentage = 0.05;
         }
     }
 }
